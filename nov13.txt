@@ -1,0 +1,5 @@
+# github commands
+
+git init
+git config-- global user.name "your name"
+git config-- global user.email "youremail@example.com"
